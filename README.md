@@ -35,7 +35,7 @@ width: 100px;
 height: 400 px;
 padding: 10px 20px
 marging: 10px 20px 30px 40px;
-border: 1px black;
+border: 1px solid black;
 ```
 width 가로
 
